@@ -1,6 +1,6 @@
 # F1 Qualifying Telemetry Simulator
 
-A silly little script that creates real-time animated visualizations comparing telemetry data from the top 3 drivers in Q3. Provides sector-by-sector dominance analysis with dynamic track visualization and telemetry plots.
+A silly little script that creates animated visualizations comparing telemetry data from the top 3 drivers in Q3. Provides sector-by-sector dominance analysis with dynamic track visualization and telemetry plots.
 
 ## Features
 
@@ -167,6 +167,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project is for educational and analytical purposes only. It is not affiliated with Formula 1, FIA, or any F1 teams. All data is sourced from publicly available official timing systems.
 
----
-
-**Built with ❤️ for F1 fans and data enthusiasts**
