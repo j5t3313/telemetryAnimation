@@ -140,7 +140,7 @@ The animation displays a synchronized multi-panel view:
 ## Configuration
 
 ### Driver Colors
-The tool uses custom team colors (hardcoded for consistent appearance):
+The tool uses custom team colors (hardcoded because I don't like the default FastF1 selections):
 - McLaren: Orange (#FF8700) and Papaya (#FFD580)
 - Red Bull: Navy (#23326A)
 - Mercedes: Cyan (#24ffff)
