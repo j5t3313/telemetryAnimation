@@ -105,7 +105,7 @@ anim = tool.run_animation(
 
 The animation displays a synchronized multi-panel view:
 
-1. **Track Dominance** (Top Left): Track layout with color-coded sectors showing which driver is fastest in each section. Cars animate around the track in real-time.
+1. **Track Dominance** (Top Left): Track layout with color-coded sectors showing which driver is fastest in each section. 
 
 2. **Speed** (Top Right): Speed vs distance comparison. Lines build progressively showing each driver's speed profile.
 
